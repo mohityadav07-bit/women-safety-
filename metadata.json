@@ -1,0 +1,6 @@
+{
+  "name": "SafeGuard - Women's Safety App",
+  "description": "Real-time women's safety & emergency response web app with one-touch SOS, live GPS tracking, emergency contacts, safety heatmap, fake call simulator, and camouflage mode.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
